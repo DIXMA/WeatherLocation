@@ -5,7 +5,7 @@ import PropTypes from 'prop-types'
 import {
     SUN,
     SNOW,
-} from './constants/constants'
+} from '../../../constants/constants'
 const icons = {
     [SUN]: 'day-sunny',
     [SNOW]: 'day-snow',
